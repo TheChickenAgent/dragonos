@@ -1,10 +1,10 @@
 #!/bin/bash
 
-echo "Welcome to the Dragon OS installer for Ubuntu!"
+echo "Welcome to the DragonOS installer for Ubuntu!"
 echo "The installer will automatically start in a moment."
 echo "IF YOU WANT TO CANCEL THE INSTALLATION, TERMINATE THIS PROCESS NOW!"
 sleep 10
-echo "The installer will now start installing Dragon OS."
+echo "The installer will now start installing DragonOS."
 
 echo "Preparing for installation..."
 cd
